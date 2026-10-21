@@ -1,4 +1,4 @@
-# vivid-fitness-tracker-spreadsheet-gym-macro-ledger
+# Fitness Tracker Spreadsheet: Excel Gym & Macro Nutrition Calculator (No Subscriptions)
 
 Vivid Fitness Tracker Spreadsheet & Automated Gym Macro Ledger Engine
 
